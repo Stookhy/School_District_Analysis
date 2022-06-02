@@ -22,9 +22,12 @@
   #### Math and reading scores by grade
   
   Math Scores by Grade
+  
+  
   ![This is an image](https://github.com/Stookhy/School_District_Analysis/blob/main/New_Math_Scores_by_Grade.png?raw=true)
   
   Reading Scores by Grade
+  
   ![This is an image](https://github.com/Stookhy/School_District_Analysis/blob/main/New_Reading_Scores_by_Grade.png?raw=true)
     
   #### Scores by school spending
