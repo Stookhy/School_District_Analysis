@@ -31,9 +31,15 @@
   ![This is an image](https://github.com/Stookhy/School_District_Analysis/blob/main/New_Reading_Scores_by_Grade.png?raw=true)
     
   #### Scores by school spending
+  
+  ![This is an image](https://github.com/Stookhy/School_District_Analysis/blob/main/Scores_by_School_Spending.png?raw=true)
     
   #### Scores by school size
+  
+  ![This is an image](https://github.com/Stookhy/School_District_Analysis/blob/main/Scores_by_School_Size.png?raw=true)
     
   #### Scores by school type
+  
+  ![This is an image](https://github.com/Stookhy/School_District_Analysis/blob/main/Scores_by_School_Type.png?raw=true)
 
 ## Summary
