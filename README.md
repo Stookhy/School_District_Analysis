@@ -20,6 +20,12 @@
   #### How does replacing the ninth-grade scores affect the following:
   
   #### Math and reading scores by grade
+  
+  Math Scores by Grade
+  ![This is an image](https://github.com/Stookhy/Election_Analysis/blob/main/Election_Results.png?raw=true)
+  
+  Reading Scores by Grade
+  ![This is an image](https://github.com/Stookhy/Election_Analysis/blob/main/Election_Results.png?raw=true)
     
   #### Scores by school spending
     
