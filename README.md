@@ -59,7 +59,7 @@
     
   #### Scores by school type
   
-    * -	Passing percentages got better for charter and district once information was reduced to exclude gr 9 students
+    * Passing percentages got better for charter and district once information was reduced to exclude gr 9 students
   
   ![This is an image](https://github.com/Stookhy/School_District_Analysis/blob/main/Scores_by_School_Type.png?raw=true)
 
