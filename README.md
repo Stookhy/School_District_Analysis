@@ -21,7 +21,7 @@
     * Particularly, the following information was summarized and combined: 
           * total number of schools and students
           * the average of math and reading score for students were calculated
-          * the passing percentages of students who passed math, and reading, and school      overall was calculated
+          * the passing percentages of students who passed math, and reading, and school overall was calculated
 
   
   #### How is the school summary affected?
