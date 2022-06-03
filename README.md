@@ -26,7 +26,7 @@
   
   #### How is the school summary affected?
   
-    * -	Get % of students passing math, reading, and school overall, but only catering to gr  10-12 students. In the past, the information was presented for all 4 grades 9-12.
+    * Get % of students passing math, reading, and school overall, but only catering to gr  10-12 students. In the past, the information was presented for all 4 grades 9-12.
   
   #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
